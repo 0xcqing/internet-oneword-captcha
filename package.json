@@ -1,0 +1,10 @@
+{
+  "name": "one-word-internet",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Internet in One Word: captcha",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
