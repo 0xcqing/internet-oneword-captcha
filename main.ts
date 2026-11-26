@@ -1,3 +1,4 @@
+// Writes "captcha" to /output/entry.txt for the make.fun bounty.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
